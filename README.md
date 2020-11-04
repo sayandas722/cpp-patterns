@@ -1,2 +1,2 @@
 # cpp-patterns
-printing pattern using cpp
+* printing pattern using cpp
